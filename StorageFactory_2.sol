@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-import "./SimpleStorage.sol"; 
+import "./SimpleStorage_1.sol"; 
 
 contract StorageFactory is SimpleStorage {
     
